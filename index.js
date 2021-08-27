@@ -27,7 +27,7 @@ app.set("view engine", "pug");
 
 /** 
 app.get("/", (req, res) => {
-    res.status(200).send("FUtureRPG: FU TTRPG for One Player");
+    res.status(200).send("FUsionRPG: FU TTRPG for One Player");
 });
 */
 

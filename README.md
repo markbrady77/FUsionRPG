@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** markbrady77, FUtureRPG, Cuchulainn21, markbrady77@gmail.com, FUtureRPG, (FU) based TTRPG optimized for Solo play
+*** markbrady77, FUsionRPG, Cuchulainn21, markbrady77@gmail.com, FUsionRPG, (FU) based TTRPG optimized for Solo play
 -->
 
 
@@ -32,23 +32,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/markbrady77/FUtureRPG">
+  <a href="https://github.com/markbrady77/FUsionRPG">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">FUtureRPG</h3>
+  <h3 align="center">FUsionRPG</h3>
 
   <p align="center">
     (FU) based TTRPG optimized for Solo play
     <br />
-    <a href="https://github.com/markbrady77/FUtureRPG"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/markbrady77/FUsionRPG"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/markbrady77/FUtureRPG">View Demo</a>
+    <a href="https://github.com/markbrady77/FUsionRPG">View Demo</a>
     ·
-    <a href="https://github.com/markbrady77/FUtureRPG/issues">Report Bug</a>
+    <a href="https://github.com/markbrady77/FUsionRPG/issues">Report Bug</a>
     ·
-    <a href="https://github.com/markbrady77/FUtureRPG/issues">Request Feature</a>
+    <a href="https://github.com/markbrady77/FUsionRPG/issues">Request Feature</a>
   </p>
 </p>
 
@@ -89,7 +89,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`markbrady77`, `FUtureRPG`, `Cuchulainn21`, `markbrady77@gmail.com`, `FUtureRPG`, `(FU) based TTRPG optimized for Solo play`
+`markbrady77`, `FUsionRPG`, `Cuchulainn21`, `markbrady77@gmail.com`, `FUsionRPG`, `(FU) based TTRPG optimized for Solo play`
 
 
 ### Built With
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/markbrady77/FUtureRPG.git
+   git clone https://github.com/markbrady77/FUsionRPG.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/markbrady77/FUtureRPG/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/markbrady77/FUsionRPG/issues) for a list of proposed features (and known issues).
 
 
 
@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@Cuchulainn21](https://twitter.com/Cuchulainn21) - markbrady77@gmail.com
 
-Project Link: [https://github.com/markbrady77/FUtureRPG](https://github.com/markbrady77/FUtureRPG)
+Project Link: [https://github.com/markbrady77/FUsionRPG](https://github.com/markbrady77/FUsionRPG)
 
 
 
@@ -185,14 +185,14 @@ Project Link: [https://github.com/markbrady77/FUtureRPG](https://github.com/mark
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/markbrady77/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/markbrady77/FUtureRPG/graphs/contributors
+[contributors-url]: https://github.com/markbrady77/FUsionRPG/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/markbrady77/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/markbrady77/FUtureRPG/network/members
+[forks-url]: https://github.com/markbrady77/FUsionRPG/network/members
 [stars-shield]: https://img.shields.io/github/stars/markbrady77/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/markbrady77/FUtureRPG/stargazers
+[stars-url]: https://github.com/markbrady77/FUsionRPG/stargazers
 [issues-shield]: https://img.shields.io/github/issues/markbrady77/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/markbrady77/FUtureRPG/issues
+[issues-url]: https://github.com/markbrady77/FUsionRPG/issues
 [license-shield]: https://img.shields.io/github/license/markbrady77/repo.svg?style=for-the-badge
-[license-url]: https://github.com/markbrady77/FUtureRPG/blob/master/LICENSE.txt
+[license-url]: https://github.com/markbrady77/FUsionRPG/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/markbrady77
